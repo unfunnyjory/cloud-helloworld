@@ -5,10 +5,7 @@ This is a highly advanced and efficient cloud-based "Hello, World" program. It u
 **Do NOT run the deprecated Python file** — that one is outdated, slow, and inefficient. Instead, use the one in the main directory for the best performance.  
 
 ## Requirements  
-- Windows 10 (64-bit)  
-- Python 3.9.0  
-- `requests` library (install with `pip install requests`)
-- other shit that might popup when running it for the first time, if it doesnt run, thats ur faught
+- idk i forgot
 
 ## How to Run  
 1. Lift your leg up
